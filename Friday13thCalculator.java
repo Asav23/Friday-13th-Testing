@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 ///////////////
-/// This code was used for manipulation etc
+/// This code was used to find the correct method to calculate friday the 13th
 
 
 
