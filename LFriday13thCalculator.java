@@ -1,5 +1,8 @@
 import java.util.Scanner;
 /*
+This Lfriday13th file is the original file that was needed ton be tested, it contains numerous errors,and the testing code is testament to this.
+
+
  * Task-6: Friday13thCalculator
  * On the planet Htrae Friday the 13th is a lucky day. You are
  * going there on the next space ship and want to calculate how
